@@ -1,2 +1,1 @@
-This is a starter blog from [Learn Next.js](https://nextjs.org/learn).
-Happy Hacking!
+Blogging platform bulit using Next JS
